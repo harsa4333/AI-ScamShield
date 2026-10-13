@@ -1,0 +1,170 @@
+message,label,scam_type,source
+"ALERT: Your UPI transfer of ₹3,499 is still pending. Approve the request in PhonePe within 15 minutes to avoid cancellation.",scam,upi_payment,synthetic
+"Your Paytm refund of ₹1,250 is ready. Please accept the incoming UPI request to receive the amount.",scam,upi_payment,synthetic
+"GPay Notice: A payment of ₹7,800 could not be completed. Confirm your transaction details immediately to process the refund.",scam,upi_payment,synthetic
+Congratulations! You have received a ₹750 cashback offer from BHIM. Complete the verification process to claim your reward.,scam,upi_payment,synthetic
+URGENT: Your UPI account may be suspended because of a failed transaction. Verify your account now to prevent restrictions.,scam,upi_payment,synthetic
+"Your ₹2,999 payment has been marked as unsuccessful. A refund has been initiated. Please confirm the request through PhonePe.",scam,upi_payment,synthetic
+"Paytm Security Alert: An unusual UPI transaction of ₹6,499 was detected. If this wasn't you, verify the transaction immediately.",scam,upi_payment,synthetic
+"Your cashback of ₹1,500 is waiting. Open the GPay payment request and approve it before the offer expires.",scam,upi_payment,synthetic
+"Dear customer, your UPI refund could not be processed automatically. Please complete the verification request to receive ₹4,200.",scam,upi_payment,synthetic
+BHIM Alert: Your recent payment is under review. Confirm the pending request within 10 minutes to prevent cancellation.,scam,upi_payment,synthetic
+You have won ₹999 cashback on your latest UPI payment! Claim your reward before midnight.,scam,upi_payment,synthetic
+"PhonePe: Your payment of ₹8,250 is pending due to bank verification. Please respond to the UPI request to complete it.",scam,upi_payment,synthetic
+"Important! ₹5,600 has been scheduled for debit from your UPI account. Cancel the transaction immediately if you did not authorize it.",scam,upi_payment,synthetic
+GPay customer notice — your recent payment failed but the amount is refundable. Follow the refund verification process now.,scam,upi_payment,synthetic
+"Paytm Reward: You are eligible for ₹2,000 instant cashback. Your reward will expire today unless claimed.",scam,upi_payment,synthetic
+"UPI PAYMENT FAILED. Refund of ₹1,799 pending. Please approve the verification request to receive your money.",scam,upi_payment,synthetic
+"Dear user, your bank has placed a temporary hold on your ₹9,999 UPI transaction. Confirm the payment request to release it.",scam,upi_payment,synthetic
+Your PhonePe transaction could not be completed because of verification failure. Complete UPI confirmation to receive your refund.,scam,upi_payment,synthetic
+"₹3,200 cashback has been credited for your recent purchase. Accept the pending request to transfer the cashback to your account.",scam,upi_payment,synthetic
+"GPay ALERT: We detected a suspicious payment attempt of ₹12,500. Immediate confirmation is required to secure your account.",scam,upi_payment,synthetic
+"Sir/Madam, your UPI refund request for ₹2,450 is awaiting confirmation. Please complete it within 30 minutes.",scam,upi_payment,synthetic
+"Paytm: Payment reversal failed for transaction ₹5,499. Please verify your UPI details so the amount can be returned.",scam,upi_payment,synthetic
+"Your account has been selected for a special ₹1,100 cashback. Open the payment request and confirm before it expires.",scam,upi_payment,synthetic
+"WARNING!!! Your UPI payment of ₹9,999 is not completed. Approve pending request now otherwise transaction will be blocked.",scam,upi_payment,synthetic
+BHIM cashback department: ₹650 reward available for you. Kindly confirm the incoming request to receive the cashback.,scam,upi_payment,synthetic
+PhonePe Notice: Your payment was reported as failed by the bank. A refund request is waiting for your approval.,scam,upi_payment,synthetic
+"We tried sending your ₹4,800 refund, but confirmation is required from your side. Please check your UPI app immediately.",scam,upi_payment,synthetic
+"GPay reward expired soon! You are eligible for ₹2,500 cashback from your recent transaction. Claim it today.",scam,upi_payment,synthetic
+"Paytm Security: Your UPI account requires immediate verification after an unusual transaction of ₹3,700.",scam,upi_payment,synthetic
+"Your ₹1,499 payment is stuck in processing. To complete the transaction successfully, approve the pending request.",scam,upi_payment,synthetic
+"IMPORTANT BANK UPDATE: Refund of ₹6,750 generated against your failed UPI payment. Verification required before the amount can be credited.",scam,upi_payment,synthetic
+"PhonePe cashback offer: Spend ₹999 and receive ₹1,999 cashback. Limited-time reward available today only.",scam,upi_payment,synthetic
+GPay: Your transaction has been reversed successfully. Confirm your UPI request to receive the reversed amount.,scam,upi_payment,synthetic
+"BHIM Alert!! Payment failed due to technical issue. Your ₹2,850 refund is pending confirmation.",scam,upi_payment,synthetic
+"Paytm: An incoming payment of ₹5,000 requires confirmation. Please approve the request before it expires.",scam,upi_payment,synthetic
+"Your UPI payment attempt was unsuccessful. For instant refund, complete the pending payment confirmation now.",scam,upi_payment,synthetic
+"ALERT: ₹15,000 UPI transaction detected from your account. If unauthorized, take immediate action through your payment application.",scam,upi_payment,synthetic
+"PhonePe customer support: Your refund of ₹3,999 is on hold because transaction confirmation is incomplete.",scam,upi_payment,synthetic
+You have been selected for a special UPI cashback worth ₹875. Reward valid for today only. Don't miss it.,scam,upi_payment,synthetic
+"GPay transaction alert: Your payment of ₹4,650 is awaiting confirmation. Complete the request now to avoid automatic cancellation.",scam,upi_payment,synthetic
+"Invest ₹5,000 today and receive ₹25,000 within 30 days through our AI-powered trading program. Guaranteed returns.",scam,investment,synthetic
+Exclusive crypto opportunity! Our experts are generating 40% monthly profits. Join before tonight's registration closes.,scam,investment,synthetic
+"Start forex trading with just ₹2,500 and earn up to ₹15,000 every week. No experience required.",scam,investment,synthetic
+"LIMITED OFFER: Invest ₹10,000 now and get guaranteed returns of ₹35,000 in just 45 days.",scam,investment,synthetic
+"Our AI trading system achieved 97% profitable trades last month. Start with ₹1,000 and watch your investment grow.",scam,investment,synthetic
+"Crypto investment slots are almost full. Deposit ₹7,500 today to secure your place in our premium trading group.",scam,investment,synthetic
+"Earn ₹20,000 from an initial ₹4,000 investment using our automated trading strategy. Risk-free returns promised.",scam,investment,synthetic
+"Dear investor, you have been selected for our private investment program. Minimum investment ₹3,000. Guaranteed monthly profit.",scam,investment,synthetic
+Don't miss this opportunity! Our analysts predict a major crypto increase. Invest before the market opens tomorrow.,scam,investment,synthetic
+"Join our WhatsApp investment community and learn how members are turning ₹5,000 into ₹50,000 in a few weeks.",scam,investment,synthetic
+"₹2,000 investment → ₹12,000 return. This special plan is available only to the first 100 investors.",scam,investment,synthetic
+"Professional trading opportunity: Start with ₹15,000 and receive weekly profit payouts through our managed account.",scam,investment,synthetic
+"Our forex experts have a 99% success rate. Deposit ₹8,000 today and start earning daily profits.",scam,investment,synthetic
+URGENT INVESTMENT ALERT: This token is expected to rise sharply. Get in early before the opportunity disappears.,scam,investment,synthetic
+"Invest ₹1,500 in our AI crypto bot and receive automated profits every day. No trading knowledge needed.",scam,investment,synthetic
+"Guaranteed 3X return! Investment window closes at midnight. Minimum deposit only ₹6,000.",scam,investment,synthetic
+"We have helped hundreds of members generate passive income through our trading platform. Start your account with ₹4,999.",scam,investment,synthetic
+"Exclusive IPO opportunity available today. Invest ₹20,000 before the deadline and secure guaranteed listing profits.",scam,investment,synthetic
+"Earn ₹30,000 from ₹5,000 using our proven crypto strategy. Thousands of investors are already participating.",scam,investment,synthetic
+"Earn from home with our automated forex system. ₹3,000 starting capital can generate ₹18,000 monthly.",scam,investment,synthetic
+"Our private crypto group has identified the next high-growth coin. Entry starts at ₹2,000. Limited members accepted.",scam,investment,synthetic
+"Special investor offer: Deposit ₹9,999 and our professional team will manage your trades for guaranteed monthly returns.",scam,investment,synthetic
+"Want to double your money quickly? Our short-term investment plan can turn ₹10,000 into ₹20,000 within 14 days.",scam,investment,synthetic
+"AI INVESTMENT SIGNALS: 95% accuracy reported by our members. Subscribe today and start trading with ₹2,500.",scam,investment,synthetic
+"Final reminder: Your invitation to our premium trading group expires today. Minimum investment ₹5,000.",scam,investment,synthetic
+"Our algorithm automatically trades the market 24/7. Start with ₹7,000 and receive your first profit within 48 hours.",scam,investment,synthetic
+"Don't let this opportunity pass! A major forex movement is expected tonight. Deposit ₹3,500 to activate your account.",scam,investment,synthetic
+"Guaranteed monthly income from crypto trading. No market experience needed. Plans start at only ₹1,999.",scam,investment,synthetic
+"We are opening 50 new investor accounts today. Initial deposit ₹10,000 with guaranteed returns of up to ₹40,000.",scam,investment,synthetic
+"Your friend invited you to our exclusive investment group. Members are reportedly earning ₹5,000–₹15,000 every week.",scam,investment,synthetic
+"Premium trading opportunity: ₹25,000 investment package with guaranteed profit after 30 days. Registration closes soon.",scam,investment,synthetic
+"Crypto prices are moving fast! Invest ₹2,999 now and let our expert traders manage your portfolio.",scam,investment,synthetic
+"Make your savings work harder. Our automated investment program promises fixed monthly returns starting from ₹5,000.",scam,investment,synthetic
+Last chance to join our private forex signals group. Only a few seats remain. Payment required to activate membership.,scam,investment,synthetic
+"Our AI bot generated 18% profit this week. Start today with ₹4,000 and receive automated trading signals.",scam,investment,synthetic
+"Special festival investment scheme: Deposit ₹6,500 and receive a guaranteed ₹13,000 payout after the plan ends.",scam,investment,synthetic
+"New investor bonus! Start with ₹2,000 and receive additional profit credits after your first successful trade.",scam,investment,synthetic
+"A major crypto opportunity has been identified by our research team. Entry amount ₹8,500. Offer closes within hours.",scam,investment,synthetic
+"Want financial freedom? Start our passive-income investment plan with ₹3,000 and earn fixed weekly returns.",scam,investment,synthetic
+"FINAL NOTICE: Your reserved place in our high-return investment program will be released unless you complete your ₹5,000 investment today.",scam,investment,synthetic
+"Dear customer, your SBI account will be blocked today. Update your KYC immediately using this link: http://bank-verify-now.in/verify",scam,banking_kyc,synthetic
+HDFC Alert: Your PAN is not linked to your account. Complete verification within 24 hours to avoid account suspension.,scam,banking_kyc,synthetic
+Aapka bank account aaj band ho jayega. KYC update karne ke liye abhi http://sbi-kycverify.co.in/update par click karein.,scam,banking_kyc,synthetic
+Your debit card has been temporarily blocked due to incomplete KYC. Enter your card details here to reactivate it: http://hdfc-secure-update.in/kyc,scam,banking_kyc,synthetic
+RBI KYC NOTICE: Your account verification is pending. Submit your Aadhaar and PAN details immediately to prevent account freezing.,scam,banking_kyc,synthetic
+"Dear SBI customer, your account verification has failed. Reply with your PAN number and the OTP sent to your registered mobile to restore access.",scam,banking_kyc,synthetic
+HDFC BANK: Final reminder! Your KYC expires today. Call our verification department at +917768040250 to prevent permanent account closure.,scam,banking_kyc,synthetic
+ICICI customer alert!!! Your account is on hold. Click http://hdfc-secure-update.in/secure and enter your banking details to unlock it now.,scam,banking_kyc,synthetic
+"Sir, aapki KYC reject ho gayi hai. Account chalu rakhna hai to abhi +919258086319 par call karke verification complete karwao.",scam,banking_kyc,synthetic
+"Your Axis Bank account has been selected for mandatory re-verification. Submit your PAN, Aadhaar number and card details through http://icici-kyc-portal.com/verify.",scam,banking_kyc,synthetic
+PNB ALERT: Your account will be deactivated tonight. Send your registered mobile number and verification OTP to complete the KYC process.,scam,banking_kyc,synthetic
+"Dear customer, your bank account is temporarily restricted. Verify your identity now to restore UPI and debit card services: http://sbi-kycverify.co.in/login",scam,banking_kyc,synthetic
+Aapka SBI account block hone wala hai. Verification ke liye jo OTP aaya hai woh abhi reply karein.,scam,banking_kyc,synthetic
+HDFC KYC Department: Your registered mobile number is not verified. Click http://sbi-kycverify.co.in/update and enter your account information to avoid suspension.,scam,banking_kyc,synthetic
+URGENT BANK NOTICE!!! PAN verification failed. Send your PAN number immediately to +918687593586 or your account will be frozen.,scam,banking_kyc,synthetic
+ICICI Bank: Your KYC application is incomplete. Pay the required verification fee of ₹499 to activate your account again.,scam,banking_kyc,synthetic
+"Dear user, your banking profile has expired. Submit your Aadhaar details and debit card PIN through our verification portal today.",scam,banking_kyc,synthetic
+Axis Bank Alert: Your account will lose online banking access within 2 hours. Complete the pending KYC form at http://icici-kyc-portal.com/secure.,scam,banking_kyc,synthetic
+"PNB customer, aapka account verify nahi hua hai. Apna PAN aur Aadhaar number WhatsApp par bhejkar KYC complete karein.",scam,banking_kyc,synthetic
+Your SBI account has been flagged for KYC renewal. Call +917702202126 now and provide the OTP to prevent account closure.,scam,banking_kyc,synthetic
+HDFC ACCOUNT WARNING: Your identity documents have expired. Re-upload your Aadhaar and PAN using http://icici-kyc-portal.com/kyc within 30 minutes.,scam,banking_kyc,synthetic
+"Sir/Madam, your ICICI account is pending final verification. Please reply with your customer ID, debit card number and registered mobile number.",scam,banking_kyc,synthetic
+"Aapka bank account freeze hone wala hai. KYC ke naam par verification pending hai, turant http://icici-kyc-portal.com/update open karke details bharein.",scam,banking_kyc,synthetic
+Axis Bank security team: Your account verification failed due to a PAN mismatch. Enter your PAN and banking password at http://hdfc-secure-update.in/update to fix the issue.,scam,banking_kyc,synthetic
+PNB FINAL WARNING: Your account will be permanently suspended if you do not submit your identity documents before midnight.,scam,banking_kyc,synthetic
+"Dear customer, your KYC renewal request has been rejected. Pay ₹299 for immediate re-verification and restore your banking facilities.",scam,banking_kyc,synthetic
+"SBI ALERT: Your debit card services will stop today. Confirm your card number, expiry date and CVV through http://bank-verify-now.in/verify.",scam,banking_kyc,synthetic
+HDFC: Aapka PAN bank account se link nahi hai. Link complete karne ke liye OTP aur account details abhi share karein.,scam,banking_kyc,synthetic
+Your ICICI account is pending RBI verification. Download the attached KYC form and provide your personal banking information to continue using your account.,scam,banking_kyc,synthetic
+Axis Bank notice: Your account has been temporarily locked. Contact our account verification officer at +917524296237 and provide the requested OTP.,scam,banking_kyc,synthetic
+PNB KYC UPDATE: Your account will be disabled unless you complete the verification form today. Click here: http://sbi-kycverify.co.in/kyc,scam,banking_kyc,synthetic
+"Dear SBI user, your account has failed the latest KYC check. Enter your Aadhaar number, PAN and ATM PIN to restore transactions.",scam,banking_kyc,synthetic
+HDFC customer service: Your bank account requires urgent reactivation. Pay the ₹399 processing charge and submit your account details now.,scam,banking_kyc,synthetic
+ICICI BANK ALERT!!! Your account access expires in 15 minutes. Verify your identity using this link immediately: http://sbi-kycverify.co.in/update,scam,banking_kyc,synthetic
+"Aapki KYC pending hai bhai, bank account band ho jayega. Jaldi se OTP aur PAN details bhejo, main update kar deta hoon.",scam,banking_kyc,synthetic
+"Axis Bank: Your customer profile could not be verified. Reply with your date of birth, PAN and card information to avoid account restrictions.",scam,banking_kyc,synthetic
+"PNB account holder, your KYC update is overdue. Call +919229836394 immediately and follow the agent's instructions to keep your account active.",scam,banking_kyc,synthetic
+SBI Re-KYC notice: Your account is scheduled for suspension. Complete the online verification and enter the OTP received on your mobile to cancel the suspension.,scam,banking_kyc,synthetic
+HDFC BANK FINAL NOTICE: Verification deadline approaching. Submit your account credentials through http://icici-kyc-portal.com/kyc to prevent permanent deactivation.,scam,banking_kyc,synthetic
+Your bank account will be blocked shortly. Send your PAN number and the latest SMS verification code to +917757453914 for immediate activation.,scam,banking_kyc,synthetic
+This is Inspector Rao from Mumbai Cyber Crime. A parcel registered in your name contains illegal items. You must remain on this video call until our investigation is complete.,scam,digital_arrest,synthetic
+CBI NOTICE: An arrest warrant has been issued against your Aadhaar number. Do not disconnect this call or inform any family member. Follow my instructions carefully.,scam,digital_arrest,synthetic
+Your package has been seized by Customs due to suspected narcotics. Transfer the required verification amount to A/C 602276804025 to avoid immediate arrest.,scam,digital_arrest,synthetic
+This is the TRAI enforcement department. Your mobile number is linked to illegal activities. Press 1 now and cooperate with the investigating officer.,scam,digital_arrest,synthetic
+We are investigating your involvement in a money laundering case. Do not leave your residence or switch off your camera until I give you permission.,scam,digital_arrest,synthetic
+"Main CBI officer bol raha hoon. Aapke Aadhaar par criminal case register hua hai. Call disconnect mat karna, warna arrest warrant issue ho jayega.",scam,digital_arrest,synthetic
+Your bank account has been linked to a major cybercrime investigation. I am an officer from the Enforcement Directorate. Keep this matter confidential and answer my questions.,scam,digital_arrest,synthetic
+POLICE ALERT: We have found suspicious financial transactions under your identity. Join the video call immediately for verification or face legal action.,scam,digital_arrest,synthetic
+"Sir, your name has appeared in an international fraud investigation. Send your Aadhaar and PAN details now to avoid being taken into custody.",scam,digital_arrest,synthetic
+This is an officer from Delhi Police. A criminal parcel has been found using your address. Stay on the call and do not contact anyone until questioning is finished.,scam,digital_arrest,synthetic
+Aapke naam par illegal parcel mila hai. Main Customs Department se bol raha hoon. Abhi video call join karo aur kisi ko phone mat karna.,scam,digital_arrest,synthetic
+Your Aadhaar has been used to open multiple suspicious bank accounts. This is a confidential CBI investigation. Failure to cooperate may result in immediate arrest.,scam,digital_arrest,synthetic
+We have evidence linking your mobile number to a narcotics shipment. Keep your camera on and do not discuss this investigation with your family.,scam,digital_arrest,synthetic
+"This is the Enforcement Directorate. Your financial records are under investigation. Transfer ₹25,000 for the mandatory verification process to prevent further legal action.",scam,digital_arrest,synthetic
+Attention! A court warrant has been issued in your name. Remain at your current location and follow the instructions given by our investigation team.,scam,digital_arrest,synthetic
+Aap digital arrest mein hain. Police investigation chal rahi hai. Ghar se bahar mat nikliye aur kisi ko bhi is call ke baare mein mat batayiye.,scam,digital_arrest,synthetic
+This is a senior officer from Mumbai Police. Your identity has surfaced in a serious cybercrime case. You must complete confidential questioning on this video call.,scam,digital_arrest,synthetic
+CBI INVESTIGATION: Your bank account is suspected of receiving illegal funds. Provide your account information and remain available for further instructions.,scam,digital_arrest,synthetic
+Your passport has been linked to an illegal international shipment. I am from the Customs Department. Cooperate immediately or a warrant will be issued.,scam,digital_arrest,synthetic
+"This is an official investigation from the cybercrime division. Your name appears in a money laundering report. Do not disconnect, and do not tell your lawyer or relatives about this call.",scam,digital_arrest,synthetic
+"Sir, main Enforcement Directorate se bol raha hoon. Aapke account mein illegal paisa aaya hai. Investigation complete hone tak call par bane rahiye.",scam,digital_arrest,synthetic
+Your SIM card is being investigated for criminal activity. This call is being transferred to a police officer. Follow all instructions to avoid immediate disconnection and legal consequences.,scam,digital_arrest,synthetic
+We have detected financial transactions connected to a fraud network. I am an investigating officer. Send your bank statement and identity documents immediately.,scam,digital_arrest,synthetic
+Aapke khilaf arrest warrant ready hai. Agar aap cooperate nahi karenge to police team aapke ghar pahunch jayegi. Video call abhi join karo.,scam,digital_arrest,synthetic
+This is the Cyber Crime Investigation Bureau. Your identity has been linked to a suspicious bank account. You are required to remain on this call for official questioning.,scam,digital_arrest,synthetic
+Your Aadhaar number has appeared in a criminal investigation involving ₹40 lakh. Do not disconnect this call. We need your personal and banking details immediately.,scam,digital_arrest,synthetic
+"Customs officer speaking. A parcel containing illegal substances was found under your name. Pay the clearance amount of ₹18,000 now to settle the case privately.",scam,digital_arrest,synthetic
+"This is a confidential police investigation. You must not tell your parents, friends or colleagues about this case. Keep your phone switched on and follow my instructions.",scam,digital_arrest,synthetic
+Aapka naam money laundering case mein aaya hai. Main CBI se hoon. Verification ke liye bank details bhejiye aur video call disconnect mat kijiye.,scam,digital_arrest,synthetic
+Your mobile number is connected to a serious national security investigation. We are recording this conversation. Remain available until the investigation officer releases you.,scam,digital_arrest,synthetic
+ED OFFICER HERE: We have identified suspicious deposits in your account. You must cooperate with our investigation and provide the requested financial records immediately.,scam,digital_arrest,synthetic
+You are suspected of participating in an online fraud network. I am a police inspector. Do not leave your home while this investigation is underway.,scam,digital_arrest,synthetic
+Aapke Aadhaar ka use karke illegal bank account khola gaya hai. Aapko abhi police verification karwana hoga. Kisi aur ko call mat karna.,scam,digital_arrest,synthetic
+This is a CBI officer calling regarding an urgent criminal investigation. Your identity is under suspicion. Stay on the video call and provide your identification documents.,scam,digital_arrest,synthetic
+"We have intercepted a parcel containing prohibited materials registered in your name. Transfer ₹12,500 to A/C 016525808631 for case verification and settlement.",scam,digital_arrest,synthetic
+"A police case has been registered against your mobile number. If you disconnect this call, we will record it as non-cooperation and initiate further legal proceedings.",scam,digital_arrest,synthetic
+Main Mumbai Cyber Cell se bol raha hoon. Aapka bank account cyber fraud mein use hua hai. Abhi apni details do aur call kisi ko transfer mat karna.,scam,digital_arrest,synthetic
+Your identity is involved in a confidential investigation by the Enforcement Directorate. Keep this matter secret and remain on video until further notice.,scam,digital_arrest,synthetic
+This is an urgent customs investigation. Your parcel contains suspected illegal goods. Provide your Aadhaar number and follow the instructions to avoid arrest.,scam,digital_arrest,synthetic
+"DIGITAL ARREST ORDER: You are required to remain available for questioning. Do not contact anyone, leave your room, or terminate this video call until I authorize it.NOTICE NO. CBI/CYB/2026/8812: You are summoned in connection with FIR No. 214/2026 (Money Laundering). You must attend the online hearing at 4 PM today. Failure to appear will result in immediate arrest. This notice is confidential. Do not share it with any family member.",scam,digital_arrest,synthetic
+"Forwarded as received: ED ALERT. Your Aadhaar number has appeared in a money laundering investigation. Verify your identity immediately. If you do not respond within 2 hours, your accounts will be frozen and an arrest warrant will be issued. Ref: ED/MUM/2041.",scam,digital_arrest,synthetic
+CUSTOMS SMS SUMMONS: A parcel registered in your name has been detained at the airport. Your identity is linked to a criminal case. Complete verification today to avoid arrest and legal action. Case Ref: CUS/DEL/5731.,scam,digital_arrest,synthetic
+URGENT: PDF WARRANT ATTACHED. An arrest order has been issued against you under Case No. POL/CYB/6284. Open the attached file named Arrest_Order.pdf and complete the required verification immediately. Failure to comply will lead to police action.,scam,digital_arrest,synthetic
+TRAI FINAL NOTICE: Your mobile number has been linked to illegal activities and a cybercrime investigation. Your SIM will be disconnected within 2 hours unless you complete identity verification. A police complaint and arrest warrant may follow. Ref: TRAI/26/4817.,scam,digital_arrest,synthetic
+NARCOTICS BUREAU CASE NOTICE: Your Aadhaar details are required for verification in connection with Case No. NCB/MUM/3072. You must submit your identity documents and attend the scheduled online investigation today. Do not discuss this matter with anyone until verification is complete.,scam,digital_arrest,synthetic
+MUMBAI POLICE CYBER CELL: Your mobile number has been linked to a cybercrime complaint. Submit your Aadhaar and bank details for immediate verification to prevent an FIR from being registered against you. Complaint No: MCC/2026/5291.,scam,digital_arrest,synthetic
+WhatsApp Alert — Forwarded as received: Your name has been added to a financial fraud investigation. An arrest warrant is ready for execution. Complete online verification within 60 minutes to avoid detention. Keep this matter confidential and do not inform your relatives. Ref: FIN/DEL/7183.,scam,digital_arrest,synthetic
+E-SUMMONS No. ED/BLR/2026/4196: You are required to appear for questioning regarding suspicious financial transactions associated with your identity. Attend the online session at 3:30 PM today. Failure to comply will result in an arrest warrant and freezing of your bank accounts.,scam,digital_arrest,synthetic
+"Aapka naam ek financial crime investigation mein aaya hai. Aapke khilaf digital arrest notice issue ho gaya hai. Aaj hi identity verification complete karein, warna arrest warrant jari kiya jayega. Ref: HG/8810. Kisi ko is baare mein na batayein.",scam,digital_arrest,synthetic

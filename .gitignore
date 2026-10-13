@@ -30,4 +30,12 @@ Thumbs.db
 data/processed/master_dataset.csv 
 data/processed/master_dataset_processed.csv 
 data/processed/master_dataset_features.csv
-data/processed/multiclass_dataset_final.csv
+data/processed/multiclass_dataset_final.csv 
+
+# Ignore large datasets
+data/processed/master_dataset.csv
+data/processed/master_dataset_processed.csv
+data/processed/master_dataset_relabeled.csv
+
+# Large datasets — keep locally, not on GitHub
+data/processed/*.csv

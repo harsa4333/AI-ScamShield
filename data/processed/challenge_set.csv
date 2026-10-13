@@ -1,0 +1,61 @@
+message,label,scam_type,source
+Kotak Mahindra Bank: your KYC is incomplete and net banking will be deactivated from tomorrow. Update now at kotak-kycrenew.in/u or call 8847201936,scam,banking_kyc,challenge
+"bank of baroda customer, ur account is going to be suspended coz PAN aadhaar link nahi hai. click bit.ly/3kQ9xPz to link, last date today",scam,banking_kyc,challenge
+Canara Bank alert: Video KYC pending for your savings account. Our executive will call you shortly. Kindly share the 6 digit code you receive so the verification can be completed. Account will be restricted otherwise.,scam,banking_kyc,challenge
+"Your IndusInd Bank credit card will be blocked at 11:59 PM tonight due to expired KYC. To avoid this, log in at indusind-secure-kyc.com and re-enter your card number, expiry and CVV.",scam,banking_kyc,challenge
+"Union Bank of India: dear account holder, as per new RBI guidelines all accounts need re-KYC by 30 Nov. Accounts without it will be marked dormant. Submit documents on www.unionbank-rekyc.in",scam,banking_kyc,challenge
+Yes Bank: Suspicious login detected on your netbanking. Your account is on temporary hold. Verify identity: yesbank-verify.co.in/auth,scam,banking_kyc,challenge
+"Hello sir, I am calling from IDFC First Bank KYC department. Your account KYC has expired, kindly tell me your Aadhaar number and the OTP on your phone so I can update it right now.",scam,banking_kyc,challenge
+BoI ALERT: Your a/c ending 4471 will be closed tomorrow. KYC not updated. Pay Rs 10 verification fee and submit PAN details here: bit.ly/4mHt2Rw,scam,banking_kyc,challenge
+PAN card not linked with Aadhaar - your Federal Bank account will be freezed from 1st. Update immediately: federalbank-panlink.in/update,scam,banking_kyc,challenge
+"Dear Sir/Madam, Greetings from Punjab & Sind Bank. Your KYC documents have been rejected due to image mismatch. Re-upload a selfie holding your PAN and Aadhaar together at the link below within 24 hours to prevent closure. psb-kycdocs.in/reupload",scam,banking_kyc,challenge
+"Sir aapka Bandhan Bank account KYC expire ho gaya hai. Abhi neeche diye link pe jaakar apna account number, PAN aur net banking password dalein varna account block ho jayega. bandhan-kycupdate.in",scam,banking_kyc,challenge
+RBL Bank: Your account KYC will expire in 2 hrs. Failure will lead to freezing of funds. Update at rbl-kycportal.in,scam,banking_kyc,challenge
+"Hello, this is Sub-Inspector Verma from Delhi Police Cyber Cell. A FedEx parcel booked with your passport has been caught with 140 grams of MDMA. Do not hang up. Switch on your video and stay where you are, you are now under digital arrest.",scam,digital_arrest,challenge
+FINAL WARNING from Narcotics Control Bureau: Case NCB/DEL/2291 registered against your name. A warrant is ready. To avoid physical arrest connect on Skype ID ncb.officer.delhi now. Do not tell anyone.,scam,digital_arrest,challenge
+Your Aadhaar was used by a trafficking gang to open 11 bank accounts. This is the CBI anti-corruption branch. You are not allowed to disconnect or contact your family until the verification is completed. Cooperate and you will be cleared.,scam,digital_arrest,challenge
+"Sir this is Vikram Singh, Customs Mumbai. Your parcel from Taiwan has fake passports and a laptop inside. Case is serious. Keep your phone on and do not talk to anyone, an officer will take your statement on video.",scam,digital_arrest,challenge
+Supreme Court of India - Virtual Hearing Notice: You are directed to appear on video in a money laundering matter. Non-appearance will lead to a non-bailable warrant. Join: scourt-virtual-hearing.in/join Keep this notice confidential.,scam,digital_arrest,challenge
+"Aapke SIM se harassment calls ki complaint aayi hai. Main TRAI se bol raha hoon, call ab Mumbai Police ko transfer ho rahi hai. Phone mat kaatna, 2 ghante mein aapka number permanent band aur FIR darj ho jayegi.",scam,digital_arrest,challenge
+This is Inspector Anil Desai. We froze your bank account in a hawala case. To prove your funds are legal you must move your entire balance to the RBI verification account. It will be returned within 24 hours after the check. Remain on the call.,scam,digital_arrest,challenge
+"ED notice: A money laundering case (PMLA) has been registered against your PAN. Your assets will be attached. Pay the security deposit of Rs 85,000 to clear your name before 6 PM. Confidential matter, tell nobody including your lawyer.",scam,digital_arrest,challenge
+"Cyber crime branch Hyderabad. Your photo and Aadhaar were found at a crime scene. You are placed under house arrest. Do not step outside, keep the video call on 24x7 until the senior officer clears you.",scam,digital_arrest,challenge
+"Dear citizen, an Interpol notice has been issued on your passport number. The Passport Office has forwarded it to the CBI. Contact officer R.K. Sharma immediately on 9318274056 to avoid detention at the airport. Do not share this message.",scam,digital_arrest,challenge
+NIA officer here. Your mobile number was used to send threats to a minister. Strictly confidential investigation. Stay on this WhatsApp video call and do not inform your office or your family or you will be treated as an accomplice.,scam,digital_arrest,challenge
+"Court order No. 441/CR/2026: You are declared absconding. A police team will reach your home in 30 minutes. To stop this, call the number below and complete verification and settlement. 9265801743",scam,digital_arrest,challenge
+"Amazon Pay: Your refund of Rs 3,299 for a cancelled order is stuck. Accept the collect request from refund-desk@oksbi and enter your UPI PIN to receive the money.",scam,upi_payment,challenge
+"Wrong transfer: Sir mistakenly sent Rs 20,000 to your PhonePe. Please return it urgently, my mother is in hospital. I have sent a collect request, just approve it.",scam,upi_payment,challenge
+"MobiKwik: Congrats, you won a scratch card of Rs 5,000. Scan the QR code attached and enter your PIN to credit the amount to your bank. Offer valid till 8 PM.",scam,upi_payment,challenge
+Google Pay: Your UPI ID is being deactivated for non-use. Reply YES and enter your UPI PIN on the link to keep it active: gpay-upi-active.in,scam,upi_payment,challenge
+"CRED: cashback of Rs 1,250 is pending on your bill payment. Click to claim and approve the request using your PIN: bit.ly/3nWq8Yd",scam,upi_payment,challenge
+"Hi, I want to buy the sofa you listed on OLX. I will pay advance. Scan this QR and enter your PIN to receive the payment of Rs 12,000, don't worry money will come to your account directly.",scam,upi_payment,challenge
+"Paytm Payments Bank: Rs 14,999 debited via UPI to unknown merchant. Not you? Call our dispute team immediately on 8120937465 and keep your UPI PIN and OTP ready for reversal.",scam,upi_payment,challenge
+Electricity bill update: your power will be disconnected tonight 9:30 PM as last month bill not updated. Pay Rs 10 via UPI to the number given and call 7348201695 to verify consumer number.,scam,upi_payment,challenge
+"Sir aapka Paytm wallet KYC expire ho gaya, balance Rs 4,820 freeze ho jayega. Abhi UPI PIN dalkar verify karein: paytm-kycverify.in",scam,upi_payment,challenge
+Freecharge refund team: Your failed recharge amount Rs 599 will be credited after you approve the pending request on your UPI app. Do not reject the request or the refund will be cancelled.,scam,upi_payment,challenge
+"Dear user, your WhatsApp Pay account shows 2 failed transfers of Rs 6,500. Click the link and enter your debit card details and UPI PIN to reverse the debit. whatsapp-pay-refund.in/reverse",scam,upi_payment,challenge
+"Airtel Thanks: Rs 2,000 cashback on your next recharge. Send Re 1 to the UPI id airtel.cashback@ybl and accept the collect request to activate.",scam,upi_payment,challenge
+"Join my Telegram channel for sure-shot stock tips. Last week members made 38% profit in 4 days. SEBI registered analyst. Joining fee only Rs 2,999. t.me/profit_king_official",scam,investment,challenge
+"Congratulations, you have been allotted shares in the upcoming pre-IPO round of a top company at Rs 40 per share. Listing price will be Rs 160. Transfer Rs 50,000 today to secure your allotment.",scam,investment,challenge
+"Dubai gold investment scheme: invest Rs 1 lakh and get Rs 15,000 every month fixed, guaranteed for life. Limited slots. Whatsapp 9810473625 for brochure.",scam,investment,challenge
+"Hello, I'm Priya from the finance team of an international trading firm. My uncle is a senior analyst and gives me inside tips. I started with $200 and now have $18,000. I can show you how, it's very easy 😊",scam,investment,challenge
+"Trade crypto with our AI bot BitProfit. 4% daily returns, withdraw anytime. Deposit USDT now. 2,000 members already earning. Link: bitprofit-ai.com/register",scam,investment,challenge
+FOREX SIGNALS VIP: 95% accuracy. Invest $100 get $500 in 7 days. Money back guarantee if no profit. Only 20 seats left!!,scam,investment,challenge
+"Sir, we offer real estate plots in Noida with 3x return in 12 months. Booking amount Rs 25,000. Agreement guaranteed buyback. Offer closes Sunday.",scam,investment,challenge
+"Mutual fund guaranteed 24% p.a. returns, no risk, fully tax free. Our scheme has no loss in the last 5 years. Pay Rs 10,000 minimum to start. Call Rajesh 9084216357.",scam,investment,challenge
+"You have been added to the WhatsApp group Stock Millionaires Club. Admin will share a stock tomorrow, buy it at 9:15 and sell at 3 for sure profit. Follow the admin's instructions and fund your trading account at the link.",scam,investment,challenge
+"Start your own business: invest Rs 5,000 in our network marketing plan, recruit just 3 friends and earn Rs 30,000 per month passive income. No work needed. Join before the plan changes on the 1st.",scam,investment,challenge
+"Earn 8% weekly on your savings with our crypto staking platform. 12,000+ happy investors. Minimum Rs 3,000. Withdraw to your bank in minutes. coinstake-india.in",scam,investment,challenge
+"Dear investor, our company is giving fixed deposit at 36% annual interest, much higher than banks. Your principal is 100% safe. Limited to first 50 investors, send payment now to book.",scam,investment,challenge
+"HDFC Bank: Rs 1,240.00 spent on Card XX4417 at BigBasket on 03-Nov. Avl limit Rs 84,220. If not you, call 1800 123 4567.",legit,none,challenge
+"Dear Customer, your Kotak account KYC is up to date. No action needed. Thanks for banking with us.",legit,none,challenge
+"bhai paytm pe 200 bhej diya check kar le, chai ke paise",legit,none,challenge
+Your OTP for login to Groww is 773920. It is valid for 5 min. Don't share with anyone.,legit,none,challenge
+"Union Bank of India: Your fixed deposit of Rs 50,000 matures on 14-Dec-2026. Please visit your branch or use internet banking to renew or withdraw.",legit,none,challenge
+Reminder: Your Star Health policy renews on 02 Jan. Renew online using the Star Health app to avoid a lapse in cover.,legit,none,challenge
+RBI has clarified that it never contacts citizens over phone or WhatsApp for KYC or account blocking. Do not click on unknown links. Report cyber fraud at cybercrime.gov.in or call 1930.,legit,none,challenge
+Your Ola ride receipt: Rs 187 paid via UPI. Thank you for riding. Rate your driver in the app.,legit,none,challenge
+"ICICI Bank: Your credit card ending 3302 has been temporarily blocked at your request. To unblock, use the iMobile Pay app or call the number on the back of your card.",legit,none,challenge
+"Congratulations Rohan on your promotion! Party this Saturday at my place, 7 PM. Bring your own drinks 😄",legit,none,challenge
+"Dear investor, your KYC status for mutual fund investments is validated. You can now invest using your registered email and mobile. - CAMS",legit,none,challenge
+"Hi sir, this is Priya from Canara Bank Koramangala branch. Your locker rent of Rs 1,500 is due. Please pay at the branch or via net banking by 30th.",legit,none,challenge
