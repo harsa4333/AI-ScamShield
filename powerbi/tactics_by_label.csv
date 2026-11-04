@@ -1,0 +1,71 @@
+source,label,tactic,messages,with_tactic
+fraud_email,legit,"Authority wording (police, bank, govt)",5465,453
+fraud_email,legit,Contains a link,5465,116
+fraud_email,legit,Contains a phone number,5465,12
+fraud_email,legit,Contains an email address,5465,756
+fraud_email,legit,Money / payment wording,5465,37
+fraud_email,legit,OTP / PIN / password request,5465,1
+fraud_email,legit,Urgency / pressure wording,5465,115
+fraud_email,scam,"Authority wording (police, bank, govt)",4151,1800
+fraud_email,scam,Contains a link,4151,1410
+fraud_email,scam,Contains a phone number,4151,393
+fraud_email,scam,Contains an email address,4151,1562
+fraud_email,scam,Money / payment wording,4151,2567
+fraud_email,scam,OTP / PIN / password request,4151,12
+fraud_email,scam,Urgency / pressure wording,4151,1641
+job_posting,legit,"Authority wording (police, bank, govt)",14968,2410
+job_posting,legit,Contains a link,14968,156
+job_posting,legit,Contains a phone number,14968,30
+job_posting,legit,Contains an email address,14968,3
+job_posting,legit,Money / payment wording,14968,977
+job_posting,legit,OTP / PIN / password request,14968,4
+job_posting,legit,Urgency / pressure wording,14968,1106
+job_posting,scam,"Authority wording (police, bank, govt)",706,119
+job_posting,scam,Contains a link,706,1
+job_posting,scam,Contains a phone number,706,0
+job_posting,scam,Contains an email address,706,0
+job_posting,scam,Money / payment wording,706,54
+job_posting,scam,OTP / PIN / password request,706,1
+job_posting,scam,Urgency / pressure wording,706,61
+phishing_email,legit,"Authority wording (police, bank, govt)",10650,1240
+phishing_email,legit,Contains a link,10650,3313
+phishing_email,legit,Contains a phone number,10650,205
+phishing_email,legit,Contains an email address,10650,2014
+phishing_email,legit,Money / payment wording,10650,652
+phishing_email,legit,OTP / PIN / password request,10650,24
+phishing_email,legit,Urgency / pressure wording,10650,987
+phishing_email,scam,"Authority wording (police, bank, govt)",6403,742
+phishing_email,scam,Contains a link,6403,678
+phishing_email,scam,Contains a phone number,6403,172
+phishing_email,scam,Contains an email address,6403,543
+phishing_email,scam,Money / payment wording,6403,859
+phishing_email,scam,OTP / PIN / password request,6403,42
+phishing_email,scam,Urgency / pressure wording,6403,732
+sms,legit,"Authority wording (police, bank, govt)",4434,6
+sms,legit,Contains a link,4434,1
+sms,legit,Contains a phone number,4434,1
+sms,legit,Contains an email address,4434,1
+sms,legit,Money / payment wording,4434,10
+sms,legit,OTP / PIN / password request,4434,0
+sms,legit,Urgency / pressure wording,4434,20
+sms,scam,"Authority wording (police, bank, govt)",563,1
+sms,scam,Contains a link,563,78
+sms,scam,Contains a phone number,563,262
+sms,scam,Contains an email address,563,8
+sms,scam,Money / payment wording,563,9
+sms,scam,OTP / PIN / password request,563,0
+sms,scam,Urgency / pressure wording,563,52
+synthetic,scam,"Authority wording (police, bank, govt)",169,43
+synthetic,scam,Contains a link,169,15
+synthetic,scam,Contains a phone number,169,9
+synthetic,scam,Contains an email address,169,0
+synthetic,scam,Money / payment wording,169,55
+synthetic,scam,OTP / PIN / password request,169,3
+synthetic,scam,Urgency / pressure wording,169,38
+synthetic_legit,legit,"Authority wording (police, bank, govt)",111,3
+synthetic_legit,legit,Contains a link,111,0
+synthetic_legit,legit,Contains a phone number,111,1
+synthetic_legit,legit,Contains an email address,111,0
+synthetic_legit,legit,Money / payment wording,111,21
+synthetic_legit,legit,OTP / PIN / password request,111,7
+synthetic_legit,legit,Urgency / pressure wording,111,1

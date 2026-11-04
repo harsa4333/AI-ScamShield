@@ -39,3 +39,12 @@ data/processed/master_dataset_relabeled.csv
 
 # Large datasets — keep locally, not on GitHub
 data/processed/*.csv
+
+# Ignore PNG images
+*.png
+
+# Ignore large processed datasets
+data/processed/*.csv
+
+# Ignore generated dataset files
+data/raw/*.csv 
